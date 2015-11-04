@@ -1,0 +1,40 @@
+[
+{
+  "fields": {
+    "rating": "0.0",
+    "updated": "2015-09-25T07:06:51.333Z",
+    "account_bank": "bca",
+    "created": "2015-09-25T06:16:28.502Z",
+    "image": "raw/staff/1da5da965c0741de9943ed394190a64c.jpg",
+    "account_num": "24425-1235-23546",
+    "tag": "shopperdriver",
+    "fund_balance": "300000.00",
+    "mileage": "0.00",
+    "mobile_num": "96857463512435",
+    "balance": "100000.00",
+    "account_name": "Contractor Onev",
+    "user": 5
+  },
+  "model": "core.contractor",
+  "pk": 1
+},
+{
+  "fields": {
+    "rating": "0.0",
+    "updated": "2015-09-25T06:17:05.293Z",
+    "account_bank": "bca",
+    "created": "2015-09-25T06:17:05.293Z",
+    "image": "raw/staff/571cc6156c2e43599e7fabf2def1609e.jpg",
+    "account_num": "125434-326465-34235",
+    "tag": "shopperdriver",
+    "fund_balance": "0.00",
+    "mileage": "0.00",
+    "mobile_num": "364547745452",
+    "balance": "0.00",
+    "account_name": "Contractor Two",
+    "user": 6
+  },
+  "model": "core.contractor",
+  "pk": 2
+}
+]

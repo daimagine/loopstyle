@@ -1,0 +1,50 @@
+[
+{
+  "fields": {
+    "status": "verified",
+    "updated": "2015-09-25T06:06:43.078Z",
+    "created": "2015-09-25T06:06:43.078Z",
+    "image": "raw/customer/fdcf0c54244b4b7584f531be1070f927.jpg",
+    "order_count": 0,
+    "mobile_num": "123456765",
+    "verified_email": true,
+    "last_order_at": null,
+    "verified_mobile": true,
+    "user": 2
+  },
+  "model": "core.customer",
+  "pk": 1
+},
+{
+  "fields": {
+    "status": "verified",
+    "updated": "2015-09-25T06:07:12.939Z",
+    "created": "2015-09-25T06:07:12.939Z",
+    "image": "raw/customer/9e07e516bcf84d8b9c93eb7039bf7080.jpg",
+    "order_count": 0,
+    "mobile_num": "24354676",
+    "verified_email": false,
+    "last_order_at": null,
+    "verified_mobile": false,
+    "user": 3
+  },
+  "model": "core.customer",
+  "pk": 2
+},
+{
+  "fields": {
+    "status": "verified",
+    "updated": "2015-09-25T06:07:31.792Z",
+    "created": "2015-09-25T06:07:31.792Z",
+    "image": "raw/customer/764a7e49716d4cc0ae252a13022457f3.jpg",
+    "order_count": 0,
+    "mobile_num": "898657543",
+    "verified_email": false,
+    "last_order_at": null,
+    "verified_mobile": false,
+    "user": 4
+  },
+  "model": "core.customer",
+  "pk": 3
+}
+]

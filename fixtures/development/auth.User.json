@@ -1,0 +1,92 @@
+[
+{
+  "fields": {
+    "username": "customerdev1",
+    "first_name": "Customer",
+    "last_name": "Dev One",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "last_login": null,
+    "groups": [],
+    "user_permissions": [],
+    "password": "pbkdf2_sha256$20000$MjzFFzsh9Rzv$97UoPHZ96OZFrgwdPVbZx/Xh3Ndk7NyQeZUaJ94HMaY=",
+    "email": "customerdev1@loopstyle.dev",
+    "date_joined": "2015-09-23T14:04:46Z"
+  },
+  "model": "auth.user",
+  "pk": 2
+},
+{
+  "fields": {
+    "username": "customerdev2",
+    "first_name": "Customer",
+    "last_name": "Dev Two",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "last_login": null,
+    "groups": [],
+    "user_permissions": [],
+    "password": "pbkdf2_sha256$20000$CAAEcrU9dKcC$0ZzbSPF8carlIq51vzEickwd6t9xcpxETRRW9zU2SSU=",
+    "email": "customerdev2@loopstyle.dev",
+    "date_joined": "2015-09-23T14:05:13Z"
+  },
+  "model": "auth.user",
+  "pk": 3
+},
+{
+  "fields": {
+    "username": "customerdev3",
+    "first_name": "Customer",
+    "last_name": "Dev Three",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "last_login": null,
+    "groups": [],
+    "user_permissions": [],
+    "password": "pbkdf2_sha256$20000$CRZJwmujgEQD$P3NY/LXsZ6STu5tiG2AKT1wOviKhKZcKW8rjJsTyRRs=",
+    "email": "customerdev3@loopstyle.dev",
+    "date_joined": "2015-09-23T14:05:34Z"
+  },
+  "model": "auth.user",
+  "pk": 4
+},
+{
+  "fields": {
+    "username": "contractordev1",
+    "first_name": "Contractor",
+    "last_name": "Dev One",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "last_login": null,
+    "groups": [],
+    "user_permissions": [],
+    "password": "pbkdf2_sha256$20000$ezgQOmAHbpGG$vDvIRl5HLchhvWV+hXON6uWXQgkHdl7ZUt/mASoGIfU=",
+    "email": "contractordev1@loopstyle.dev",
+    "date_joined": "2015-09-23T14:06:04Z"
+  },
+  "model": "auth.user",
+  "pk": 5
+},
+{
+  "fields": {
+    "username": "contractordev2",
+    "first_name": "Contractor",
+    "last_name": "Dev Two",
+    "is_active": true,
+    "is_superuser": false,
+    "is_staff": false,
+    "last_login": null,
+    "groups": [],
+    "user_permissions": [],
+    "password": "pbkdf2_sha256$20000$SN4IsMtLEAAv$oRgdQDG6TuZe+5pSlQJ8S8FOqhYxYzKfPKvTp8anFaM=",
+    "email": "contractordev2@loopstyle.dev",
+    "date_joined": "2015-09-23T14:06:23Z"
+  },
+  "model": "auth.user",
+  "pk": 6
+}
+]
